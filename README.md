@@ -71,7 +71,7 @@ Follow these steps to run the project locally.
 2. **Navigate into the project directory**
 
    ```bash
-   cd thirdchair_website
+   cd stack_ai
 
 3. **Install dependencies**
 
@@ -86,4 +86,4 @@ Follow these steps to run the project locally.
 5. **Open the app in your browserVisit http://localhost:3000 to view the website**
 
 ## Author
-**Your Name** – [Portfolio](https://github.com/KofiAnaan0) | [LinkedIn](https://linkedin.com/in/isadru-santos/)
+**Isadru Santos** – [Portfolio](https://github.com/KofiAnaan0) | [LinkedIn](https://linkedin.com/in/isadru-santos/)
